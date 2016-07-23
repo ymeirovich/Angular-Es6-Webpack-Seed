@@ -43,13 +43,13 @@ npm install
 ```
 
 COMMANDS:
-    ON DEVELOPMENT:
-    ```
-    npm start
-    ```
-    then go browse to the app at http://localhost:8080/.
+ON DEVELOPMENT:
+```
+npm start
+```
+then go browse to the app at http://localhost:8080/.
 
-    ON PRODUCTION:
-    ```
-    npm run build
-    ```
+ON PRODUCTION:
+```
+npm run build
+```
