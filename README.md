@@ -42,7 +42,6 @@ The `depth=1` tells git to only pull down one commit worth of historical data.
 npm install
 ```
 
-COMMANDS:
 ON DEVELOPMENT:
 ```
 npm start
